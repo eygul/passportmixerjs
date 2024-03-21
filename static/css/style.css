@@ -1,0 +1,68 @@
+#map-container{
+    align-items: center;
+    display: inline-block;
+}
+#info {
+    margin-left: 10%;
+    color: white;
+    font-family:"Monaco", monospace;
+    background-color:rgb(50,60,68);
+    border: solid white;
+    display: inline-block;
+}
+
+body{
+    background-color: rgb(50,60,68);
+}
+#wrapper{
+}
+
+#worldreach{
+   padding-top: 3%;
+    color: yellow;
+    text-align: center;
+}
+#visafree{
+    padding-top: 3%;
+    color: green;
+    text-align: center;
+    }
+    #visarequired{
+    padding-top: 3%;
+    color: red;
+    text-align: center;
+    }
+    .passport{
+    padding-top: 3%;
+    text-align: center;
+    color: blue;
+    }
+    .passport1{
+        padding-top: 3%;
+        text-align: center;
+        color: purple;
+        }
+    a, button{
+     text-decoration:none;
+     color: white;
+     text-align: center;
+     background-color: darkslategray;
+     padding: 6px;
+     border-radius: 10px;
+     }
+     a:hover, a:focus, button:hover, button:focus {
+     background-color: #3e8e41;
+   }
+   #align{
+   text-align: center;
+   }
+   .align{
+    text-align: center;
+    }
+   .passportcountry{
+    padding-top:3%;
+   }
+
+   button{
+    border: none;
+   }
